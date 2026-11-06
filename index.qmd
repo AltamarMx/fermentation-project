@@ -1,0 +1,104 @@
+---
+pagetitle: "Fermentation project"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    transition: slide
+    css: styles.css
+lang: es
+---
+
+## Fermentation project {.center}
+
+:::: {.columns}
+::: {.column width="55%"}
+Repositorio del proyecto:
+
+[github.com/AltamarMx/fermentation-project](https://github.com/AltamarMx/fermentation-project){style="font-size: 0.6em;"}
+:::
+::: {.column width="45%"}
+![](images/qr-repo.svg){width="320" fig-alt="Código QR al repositorio en GitHub"}
+:::
+::::
+
+## Los 4 cafés {#cafes}
+
+::: {.cafe-grid}
+::: {.cafe}
+[1 · Desmucilaginado mecánico]{.cafe-titulo}
+**Sin fermentación (control).** El perfil viene de las prácticas de cultivo y de la genética de la variedad.
+:::
+::: {.cafe}
+[2 · Fermentación silvestre]{.cafe-titulo}
+**48 h, microbios locales.** El método tradicional: la población microbiana local elimina el mucílago.
+:::
+::: {.cafe}
+[3 · Inoculado con *Lactobacillus*]{.cafe-titulo}
+**48 h.** Produce más ácidos orgánicos: más brillo y complejidad.
+:::
+::: {.cafe}
+[4 · Inoculado con *Saccharomyces*]{.cafe-titulo}
+**48 h, levadura.** Produce más precursores de sabor: más cuerpo y complejidad.
+:::
+:::
+
+::: {.origen}
+Finca San Miguel Urias (Hector y Lilian Leal, Rueda Farms) · Antigua, Guatemala · ~85% Caturra, ~15% H1, algo de Bourbon · Procesado por Lucia Solis
+:::
+
+## Lo único que cambia es la fermentación {#veracruz}
+
+[Misma finca · Obatã + Anacafé 14 · mismo lavado · Totutla, Veracruz]{.tl-sub}
+
+```{=html}
+<div class="tl">
+  <div class="tl-row tl-axis">
+    <div></div>
+    <div class="tl-track">
+      <span style="left:0%">0 h</span><span style="left:40%">96</span><span style="left:60%">144</span><span style="left:100%">240 h</span>
+    </div>
+    <div></div>
+  </div>
+  <div class="tl-row">
+    <div class="tl-id">BL01</div>
+    <div class="tl-track"><div class="tl-bar" style="width:40%;background:#1f3a2e"></div>
+      <p><b>BactoNativa</b> · bacterias lácticas nativas inoculadas a las 48 h.</p></div>
+    <div class="tl-h">96 h</div>
+  </div>
+  <div class="tl-row">
+    <div class="tl-id">BL02</div>
+    <div class="tl-track"><div class="tl-bar" style="width:60%;background:#b8ad85"></div>
+      <p><b>BactoNativa</b> · bacterias acéticas nativas inoculadas a pH 4.5.</p></div>
+    <div class="tl-h">144 h</div>
+  </div>
+  <div class="tl-row">
+    <div class="tl-id">BL03</div>
+    <div class="tl-track"><div class="tl-bar" style="width:100%;background:#6b2737"></div>
+      <p><b>EnziBio</b> · infusión enzimática (pectinasas, celulasas, xilanasas, glucosidasas) y acéticas nativas 24 h después.</p></div>
+    <div class="tl-h">240 h</div>
+  </div>
+  <div class="tl-row tl-sep">
+    <div class="tl-id">B80</div>
+    <div class="tl-track"><div class="tl-bar" style="width:100%;background:#b4c7d3"></div>
+      <p><b>Infusión con frutos rojos.</b> Fuera de la escala de tiempo: aquí la variable no son las horas.</p></div>
+    <div class="tl-h tl-inf">INFUSIÓN</div>
+  </div>
+</div>
+```
+
+::: {.origen}
+Todas las cepas se identificaron por secuenciación metagenómica del propio cafetal. Fermentaciones en biorreactor de acero inoxidable.
+:::
+
+## Objetivo
+
+- Por definir
+
+## Metodología
+
+- Por definir
+
+## Resultados
+
+- Por definir

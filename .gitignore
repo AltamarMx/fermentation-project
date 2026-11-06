@@ -1,9 +1,10 @@
 # Quarto
 /.quarto/
-presentacion.html
-presentacion_files/
+/_site/
 *_files/
 
 # Python
 __pycache__/
 .venv/
+
+**/*.quarto_ipynb
