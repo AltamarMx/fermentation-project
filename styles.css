@@ -1,0 +1,31 @@
+.cafe-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6em;
+  margin-top: 0.4em;
+}
+.cafe {
+  border-left: 6px solid #8b5a2b;
+  background: #f7f1ea;
+  padding: 0.4em 0.7em;
+  border-radius: 6px;
+  font-size: 0.55em;
+  line-height: 1.35;
+}
+.cafe:nth-child(1) { border-left-color: #7a7a7a; }
+.cafe:nth-child(2) { border-left-color: #6b8e23; }
+.cafe:nth-child(3) { border-left-color: #c9a227; }
+.cafe:nth-child(4) { border-left-color: #8b3a62; }
+.cafe-titulo {
+  display: block;
+  font-weight: 700;
+  font-size: 1.25em;
+  margin: 0 0 0.3em 0;
+}
+.cafe p { margin: 0; }
+.origen {
+  margin-top: 0.8em;
+  font-size: 0.45em;
+  color: #666;
+  text-align: center;
+}

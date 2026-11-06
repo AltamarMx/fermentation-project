@@ -5,6 +5,7 @@ format:
     theme: default
     slide-number: true
     transition: slide
+    css: styles.css
 lang: es
 ---
 
@@ -20,6 +21,31 @@ Repositorio del proyecto:
 ![](images/qr-repo.svg){width="320" fig-alt="Código QR al repositorio en GitHub"}
 :::
 ::::
+
+## Los 4 cafés {#cafes}
+
+::: {.cafe-grid}
+::: {.cafe}
+[1 · Desmucilaginado mecánico]{.cafe-titulo}
+**Sin fermentación (control).** El perfil viene de las prácticas de cultivo y de la genética de la variedad.
+:::
+::: {.cafe}
+[2 · Fermentación silvestre]{.cafe-titulo}
+**48 h, microbios locales.** El método tradicional: la población microbiana local elimina el mucílago.
+:::
+::: {.cafe}
+[3 · Inoculado con *Lactobacillus*]{.cafe-titulo}
+**48 h.** Produce más ácidos orgánicos: más brillo y complejidad.
+:::
+::: {.cafe}
+[4 · Inoculado con *Saccharomyces*]{.cafe-titulo}
+**48 h, levadura.** Produce más precursores de sabor: más cuerpo y complejidad.
+:::
+:::
+
+::: {.origen}
+Finca San Miguel Urias (Hector y Lilian Leal, Rueda Farms) · Antigua, Guatemala · ~85% Caturra, ~15% H1, algo de Bourbon · Procesado por Lucia Solis
+:::
 
 ## Objetivo
 
