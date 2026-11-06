@@ -1,0 +1,141 @@
+.cafe-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6em;
+  margin-top: 0.4em;
+}
+.cafe {
+  border-left: 6px solid #8b5a2b;
+  background: #f7f1ea;
+  padding: 0.4em 0.7em;
+  border-radius: 6px;
+  font-size: 0.55em;
+  line-height: 1.35;
+}
+.cafe:nth-child(1) { border-left-color: #7a7a7a; }
+.cafe:nth-child(2) { border-left-color: #6b8e23; }
+.cafe:nth-child(3) { border-left-color: #c9a227; }
+.cafe:nth-child(4) { border-left-color: #8b3a62; }
+.cafe-titulo {
+  display: block;
+  font-weight: 700;
+  font-size: 1.25em;
+  margin: 0 0 0.3em 0;
+}
+.cafe p { margin: 0; }
+.origen {
+  margin-top: 0.8em;
+  font-size: 0.45em;
+  color: #666;
+  text-align: center;
+}
+
+/* Línea de tiempo: cafés de Veracruz */
+.tl-sub {
+  display: block;
+  font-size: 0.5em;
+  color: #777;
+  letter-spacing: 0.03em;
+  margin-top: -0.4em;
+}
+.tl { font-size: 0.5em; margin-top: 0.6em; }
+.tl-row {
+  display: grid;
+  grid-template-columns: 4.5em 1fr 5.5em;
+  gap: 0 1em;
+  align-items: start;
+  padding: 0.45em 0;
+  border-top: 1px solid #d5dccf;
+}
+.tl-axis { border-top: none; padding-bottom: 0; }
+.tl-axis .tl-track {
+  position: relative;
+  height: 1.6em;
+  border-bottom: 2px solid #9aa892;
+  color: #888;
+  font-size: 0.85em;
+}
+.tl-axis span { white-space: nowrap; position: absolute; bottom: 0.2em; transform: translateX(-50%); }
+.tl-axis span:first-child { transform: none; }
+.tl-axis span:last-child { transform: translateX(-100%); }
+.tl-sep { border-top: 3px solid #9aa892; margin-top: 0.3em; }
+.tl-id { font-weight: 700; letter-spacing: 0.05em; padding-top: 0.1em; }
+.tl-bar { height: 1.1em; border-radius: 3px; }
+.tl-track p { margin: 0.3em 0 0 0; line-height: 1.3; }
+.tl-h { text-align: right; font-weight: 600; }
+.tl-inf { font-size: 0.8em; letter-spacing: 0.08em; padding-top: 0.2em; }
+.reveal #veracruz h2 { font-size: 1.25em; }
+
+/* Personas */
+.personas {
+  display: flex;
+  justify-content: center;
+  gap: 2.5em;
+  margin-top: 0.7em;
+}
+.persona {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+  column-gap: 0.6em;
+  align-items: center;
+  font-size: 0.5em;
+}
+.persona p { display: contents; }
+.reveal .persona .foto {
+  grid-row: 1 / span 2;
+  width: 4.2em;
+  height: 4.2em;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0;
+}
+.persona .nombre { font-weight: 700; align-self: end; }
+.persona .rol { color: #666; font-size: 0.85em; align-self: start; }
+
+/* Mesa de cata: dos columnas, de arriba hacia abajo */
+.mesa {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.45em 1.2em;
+  font-size: 0.55em;
+  margin-top: 0.3em;
+}
+.mesa > p { display: contents; }
+.mesa-col {
+  font-weight: 700;
+  color: #666;
+  letter-spacing: 0.03em;
+  border-bottom: 2px solid #9aa892;
+  padding-bottom: 0.2em;
+}
+.taza {
+  border-left: 8px solid var(--c);
+  background: #f7f1ea;
+  border-radius: 6px;
+  padding: 0.35em 0.8em;
+}
+.taza p { margin: 0; }
+.taza-t { display: block; font-weight: 700; font-size: 1.15em; }
+.taza-d { display: block; color: #555; }
+
+/* Video */
+.video-wrap {
+  width: 82%;
+  margin: 0.2em auto 0;
+  aspect-ratio: 16 / 9;
+}
+.video-wrap iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px;
+}
+.video-credito {
+  display: block;
+  text-align: center;
+  font-size: 0.45em;
+  color: #777;
+  margin-top: 0.4em;
+}
+.reveal .video-slide h2 { font-size: 1em; }
