@@ -161,18 +161,6 @@ Todas las cepas se identificaron por secuenciación metagenómica del propio caf
 :::
 :::
 
-## Objetivo
-
-- Por definir
-
-## Metodología
-
-- Por definir
-
-## Resultados
-
-- Por definir
-
 ## LIVE! The World's Largest Coffee Tasting {#en-vivo .video-slide}
 
 ```{=html}
