@@ -43,8 +43,21 @@ Repositorio del proyecto:
 :::
 :::
 
+::: {.personas}
+::: {.persona}
+![](images/james-hoffmann.jpg){.foto fig-alt="James Hoffmann"}
+[James Hoffmann]{.nombre}
+[Cata en vivo en su canal de YouTube]{.rol}
+:::
+::: {.persona}
+[LS]{.foto .iniciales}
+[Lucia Solis]{.nombre}
+[Procesó los cuatro lotes con el equipo de la finca]{.rol}
+:::
+:::
+
 ::: {.origen}
-Finca San Miguel Urias (Hector y Lilian Leal, Rueda Farms) · Antigua, Guatemala · ~85% Caturra, ~15% H1, algo de Bourbon · Procesado por Lucia Solis
+Finca San Miguel Urias (Hector y Lilian Leal, Rueda Farms) · Antigua, Guatemala · ~85% Caturra, ~15% H1, algo de Bourbon
 :::
 
 ## Lo único que cambia es la fermentación {#veracruz}
