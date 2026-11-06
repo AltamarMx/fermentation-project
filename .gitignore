@@ -1,0 +1,9 @@
+# Quarto
+/.quarto/
+presentacion.html
+presentacion_files/
+*_files/
+
+# Python
+__pycache__/
+.venv/

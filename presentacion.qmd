@@ -1,0 +1,34 @@
+---
+pagetitle: "Fermentation project"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    transition: slide
+lang: es
+---
+
+## Fermentation project {.center}
+
+:::: {.columns}
+::: {.column width="55%"}
+Repositorio del proyecto:
+
+[github.com/AltamarMx/fermentation-project](https://github.com/AltamarMx/fermentation-project){style="font-size: 0.6em;"}
+:::
+::: {.column width="45%"}
+![](images/qr-repo.svg){width="320" fig-alt="Código QR al repositorio en GitHub"}
+:::
+::::
+
+## Objetivo
+
+- Por definir
+
+## Metodología
+
+- Por definir
+
+## Resultados
+
+- Por definir
