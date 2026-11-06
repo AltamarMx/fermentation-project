@@ -172,3 +172,42 @@ Todas las cepas se identificaron por secuenciación metagenómica del propio caf
 ## Resultados
 
 - Por definir
+
+## LIVE! The World's Largest Coffee Tasting {#en-vivo .video-slide}
+
+```{=html}
+<div class="video-wrap">
+  <iframe data-src="https://www.youtube.com/embed/98MD900CAzg?rel=0&enablejsapi=1&start=2314"
+          title="LIVE! The World's Largest Coffee Tasting"
+          allow="encrypted-media; picture-in-picture; fullscreen"
+          allowfullscreen></iframe>
+</div>
+```
+
+[Video: James Hoffmann · Empieza en 38:34]{.video-credito}
+
+## Taste Coffee With Me For The Last Time {#ultima-cata .video-slide}
+
+```{=html}
+<div class="video-wrap">
+  <iframe data-src="https://www.youtube.com/embed/Iy8m7AbZVm0?rel=0&enablejsapi=1"
+          title="Taste Coffee With Me For The Last Time"
+          allow="encrypted-media; picture-in-picture; fullscreen"
+          allowfullscreen></iframe>
+</div>
+```
+
+[Video: James Hoffmann]{.video-credito}
+
+## I Went To Guatemala To Explain Why All Coffee Is Fermented {#guatemala .video-slide}
+
+```{=html}
+<div class="video-wrap">
+  <iframe data-src="https://www.youtube.com/embed/Iq34gq2ihMk?rel=0&enablejsapi=1"
+          title="I Went To Guatemala To Explain Why All Coffee Is Fermented"
+          allow="encrypted-media; picture-in-picture; fullscreen"
+          allowfullscreen></iframe>
+</div>
+```
+
+[Video: James Hoffmann]{.video-credito}
