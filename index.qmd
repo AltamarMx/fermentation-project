@@ -13,12 +13,12 @@ lang: es
 
 :::: {.columns}
 ::: {.column width="55%"}
-Repositorio del proyecto:
+Sigue la presentación:
 
-[github.com/AltamarMx/fermentation-project](https://github.com/AltamarMx/fermentation-project){style="font-size: 0.6em;"}
+[altamarmx.github.io/fermentation-project](https://altamarmx.github.io/fermentation-project/){style="font-size: 0.6em;"}
 :::
 ::: {.column width="45%"}
-![](images/qr-repo.svg){width="320" fig-alt="Código QR al repositorio en GitHub"}
+![](images/qr-presentacion.svg){width="320" fig-alt="Código QR a la presentación"}
 :::
 ::::
 
