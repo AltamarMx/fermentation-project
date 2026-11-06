@@ -64,7 +64,7 @@ Repositorio del proyecto:
 [Cata en vivo en su canal de YouTube]{.rol}
 :::
 ::: {.persona}
-[LS]{.foto .iniciales}
+![](images/lucia-solis.jpg){.foto fig-alt="Lucia Solis"}
 [Lucia Solis]{.nombre}
 [Procesó los cuatro lotes con el equipo de la finca]{.rol}
 :::

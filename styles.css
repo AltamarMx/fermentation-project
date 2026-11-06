@@ -90,14 +90,6 @@
   object-fit: cover;
   margin: 0;
 }
-.persona .iniciales {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #e8ddd0;
-  color: #8b5a2b;
-  font-weight: 700;
-}
 .persona .nombre { font-weight: 700; align-self: end; }
 .persona .rol { color: #666; font-size: 0.85em; align-self: start; }
 
