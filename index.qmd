@@ -104,6 +104,49 @@ Finca San Miguel Urias (Hector y Lilian Leal, Rueda Farms) · Antigua, Guatemala
 Todas las cepas se identificaron por secuenciación metagenómica del propio cafetal. Fermentaciones en biorreactor de acero inoxidable.
 :::
 
+## Mesa de cata {#mesa}
+
+::: {.mesa}
+[Antigua, Guatemala · Caturra, H1, Bourbon]{.mesa-col}
+[Totutla, Veracruz · Obatã + Anacafé 14]{.mesa-col}
+
+::: {.taza style="--c:#7a7a7a"}
+[1 · Desmucilaginado mecánico]{.taza-t}
+[Sin fermentación (control)]{.taza-d}
+:::
+::: {.taza style="--c:#1f3a2e"}
+[BL01 · 96 h]{.taza-t}
+[BactoNativa · lácticas nativas a las 48 h]{.taza-d}
+:::
+
+::: {.taza style="--c:#6b8e23"}
+[2 · Fermentación silvestre]{.taza-t}
+[48 h · microbios locales]{.taza-d}
+:::
+::: {.taza style="--c:#b8ad85"}
+[BL02 · 144 h]{.taza-t}
+[BactoNativa · acéticas nativas a pH 4.5]{.taza-d}
+:::
+
+::: {.taza style="--c:#c9a227"}
+[3 · Inoculado con *Lactobacillus*]{.taza-t}
+[48 h · más ácidos orgánicos]{.taza-d}
+:::
+::: {.taza style="--c:#6b2737"}
+[BL03 · 240 h]{.taza-t}
+[EnziBio · enzimas + acéticas nativas]{.taza-d}
+:::
+
+::: {.taza style="--c:#8b3a62"}
+[4 · Inoculado con *Saccharomyces*]{.taza-t}
+[48 h · más precursores de sabor]{.taza-d}
+:::
+::: {.taza style="--c:#b4c7d3"}
+[B80 · Infusión]{.taza-t}
+[Infusión con frutos rojos]{.taza-d}
+:::
+:::
+
 ## Objetivo
 
 - Por definir

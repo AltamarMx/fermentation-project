@@ -100,3 +100,29 @@
 }
 .persona .nombre { font-weight: 700; align-self: end; }
 .persona .rol { color: #666; font-size: 0.85em; align-self: start; }
+
+/* Mesa de cata: dos columnas, de arriba hacia abajo */
+.mesa {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.45em 1.2em;
+  font-size: 0.55em;
+  margin-top: 0.3em;
+}
+.mesa > p { display: contents; }
+.mesa-col {
+  font-weight: 700;
+  color: #666;
+  letter-spacing: 0.03em;
+  border-bottom: 2px solid #9aa892;
+  padding-bottom: 0.2em;
+}
+.taza {
+  border-left: 8px solid var(--c);
+  background: #f7f1ea;
+  border-radius: 6px;
+  padding: 0.35em 0.8em;
+}
+.taza p { margin: 0; }
+.taza-t { display: block; font-weight: 700; font-size: 1.15em; }
+.taza-d { display: block; color: #555; }
