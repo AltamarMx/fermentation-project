@@ -22,20 +22,6 @@ Repositorio del proyecto:
 :::
 ::::
 
-## Cómo romper la costra {#costra}
-
-```{=html}
-<div class="video-wrap">
-  <iframe data-src="https://www.youtube.com/embed/6EOZSHHfHYs?autoplay=1&mute=1&loop=1&playlist=6EOZSHHfHYs&rel=0&enablejsapi=1"
-          data-autoplay
-          title="Cupping Coffee - Breaking the Crust"
-          allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
-          allowfullscreen></iframe>
-</div>
-```
-
-[Video: *Cupping Coffee – Breaking the Crust*, Coffee Lovers TV]{.video-credito}
-
 ## Los 4 cafés {#cafes}
 
 ::: {.cafe-grid}
@@ -117,6 +103,20 @@ Finca San Miguel Urias (Hector y Lilian Leal, Rueda Farms) · Antigua, Guatemala
 ::: {.origen}
 Todas las cepas se identificaron por secuenciación metagenómica del propio cafetal. Fermentaciones en biorreactor de acero inoxidable.
 :::
+
+## Cómo romper la costra {#costra}
+
+```{=html}
+<div class="video-wrap">
+  <iframe data-src="https://www.youtube.com/embed/6EOZSHHfHYs?autoplay=1&mute=1&loop=1&playlist=6EOZSHHfHYs&rel=0&enablejsapi=1"
+          data-autoplay
+          title="Cupping Coffee - Breaking the Crust"
+          allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
+          allowfullscreen></iframe>
+</div>
+```
+
+[Video: *Cupping Coffee – Breaking the Crust*, Coffee Lovers TV]{.video-credito}
 
 ## Mesa de cata {#mesa}
 
